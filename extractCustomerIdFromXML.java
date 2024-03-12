@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class extractCustomerIdFromXML {
+public class ExtractCustomerIdFromXML {
     public static void main(String[] args) {
 
         String data = ""; // Your data here
